@@ -1,5 +1,3 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print (str, str, str)
-
-print("%.9s" % (str))
+print ("%s%s%s"% (str, str, str))
