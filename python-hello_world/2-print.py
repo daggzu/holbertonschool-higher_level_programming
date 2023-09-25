@@ -1,1 +1,2 @@
-print('"Programming is like building a multilingual puzzle,')
+msg = input('"Programming is like building a multilingual puzzle\n')
+print (msg)
