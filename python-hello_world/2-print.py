@@ -1,2 +1,2 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 ("\"Programming is like building a multilingual puzzle")
