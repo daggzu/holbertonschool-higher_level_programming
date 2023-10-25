@@ -1,4 +1,3 @@
-![GIF](https://media.giphy.com/media/fkRXAeh79xP5m/giphy.gif)
 
 ## Almost a circle
 
